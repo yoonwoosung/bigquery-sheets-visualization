@@ -11,7 +11,7 @@
 <img src="images/01_employees_테이블_생성_성공.png" width="600"/>
 
 - departments 테이블 생성 쿼리  
-<img src="images/02_departments_테이블_생성_성공.png" width="600"/>
+<img src="images/02_departments_테이블_생성_성공.png .png" width="600"/>
 
 ---
 
@@ -25,7 +25,7 @@
 ## 📊 3. 데이터 시각화 결과
 
 - name 기준 Pie Chart 시각화  
-<img src="images/05_piechart.png" width="600"/>
+<img src="images/데이터셋.png" width="600"/>
 
 ---
 
