@@ -5,7 +5,7 @@
 
 ---
 
-## 🔧 1. 테이블 생성
+##  1. 테이블 생성
 
 - employees 테이블 생성 쿼리  
 <img src="images/01_employees_테이블_생성_성공.png" width="600"/>
@@ -15,21 +15,21 @@
 
 ---
 
-## 📡 2. Google Sheets 연동
+##  2. Google Sheets 연동
 
 - SyncWith를 활용한 BigQuery → Google Sheets 연동  
 <img src="images/표.png" width="600"/>
 
 ---
 
-## 📊 3. 데이터 시각화 결과
+##  3. 데이터 시각화 결과
 
 - name 기준 Pie Chart 시각화  
 <img src="images/데이터셋.png" width="600"/>
 
 ---
 
-## 📌 실습 요약
+##  실습 요약
 
 - BigQuery에서 SQL 작성 및 테이블 구성  
 - Google Sheets와 실시간 연동  
